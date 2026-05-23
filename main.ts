@@ -7,7 +7,7 @@ const DEFAULT_SETTINGS = {
   markerPosition: 'after',
   createdDurationHours: 24,
   modifiedDurationHours: 24,
-  refreshSeconds: 15,
+  refreshSeconds: 60,
   titleStyle: 'none',
   titleColorCreated: '#22c55e',
   titleColorModified: '#eab308',
